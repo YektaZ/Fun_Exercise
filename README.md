@@ -17,4 +17,4 @@ Inside you can find the three main functions that the problem has asked for:
 Multiple other functions have been created to make the task easier. I have added comments on each section to make is easire to walk through the functions. 
 
 ### Questions?
-You can send me an email to y.zahed.z at gmail dot com.
+You can shoot me an email at y.zahed.z at gmail dot com.
