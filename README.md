@@ -1,7 +1,7 @@
 # Pickle_Excercise
 
-● number_to_words(), which takes as an argument a string representing a US phone
-number and which outputs a string which has transformed part or all of the phone
+> ● number_to_words(), which takes as an argument a string representing a US phone
+> number and which outputs a string which has transformed part or all of the phone
 number into a single "wordified" phone number that can be typed on a US telephone (for
 example, a valid output of number_to_words("1-800-724-6837") could be
 "1-800-PAINTER"). If you find it makes things simpler, feel free to constrain this function
