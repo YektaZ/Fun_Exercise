@@ -1,4 +1,4 @@
-# Pickle's Excercise
+# Pickle Robot Company's Excercise
 
 ### Problem Statement 
 
@@ -14,7 +14,7 @@ Inside you can find the three main functions that the problem has asked for:
 - number_to_words()
 - words_to_numbers()
 - all_wordifications()
-Multiple other functions have been created to make the task easier. I have added comments on each section to make is easire to walk through the functions. 
+Multiple other functions have been called inside these three functions. I have added comments on each function/section to make it easier to walk through. 
 
 ### Questions?
-You can shoot me an email at y.zahed.z at gmail dot com.
+If you have comments or questions you can shoot me an email at y.zahed.z at gmail dot com.
