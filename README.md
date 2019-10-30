@@ -14,6 +14,7 @@ Inside you can find the three main functions that the problem has asked for:
 - number_to_words()
 - words_to_numbers()
 - all_wordifications()
+
 Multiple other functions have been called inside these three functions. I have added comments on each function/section to make it easier to walk through. 
 
 ### Questions?
