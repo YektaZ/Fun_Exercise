@@ -1,4 +1,3 @@
-# Pickle Robot Company's Exercise
 
 ### Problem Statement 
 
